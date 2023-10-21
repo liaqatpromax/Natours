@@ -16,6 +16,7 @@
     }
 @include respond(phone){
     transform: translateX(-7%) skewX(0deg);
+    width:93%;
 }
     &__shape{
         width: 15rem;
